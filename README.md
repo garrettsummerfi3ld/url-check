@@ -2,7 +2,7 @@
 
 A Python script to check if a CSV of URLs is accessible
 
-> ![NOTICE]
+> [!WARNING]
 >
 > This is a work in progress, things may be broken or unstable!
 
